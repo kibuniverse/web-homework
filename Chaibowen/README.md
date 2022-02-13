@@ -1,8 +1,5 @@
 # 柴博文
 
-```SHELL
-pnpx vite #....
-cd 
-pnpm i
-pnpm vite
-```
+## 学习记录
+
+今天学了React的拼写
